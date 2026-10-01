@@ -1,0 +1,5 @@
+print("Relatório de Cadastro")
+print("===============================")
+print("Quantidade de usuários cadastrados: 150")
+print("Quantidade de produtos cadastrados: 75")  
+print("Quantidade de pedidos realizados: 200")
